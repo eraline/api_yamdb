@@ -1,5 +1,10 @@
 # Yamdb API
-Project with titles, scores, and reviews for it. Auth by jwt.
+API for the Review Service. Authorization was made using the JWT token. 
+Users can write reviews on films, music or book, also they can leave comments on any reviews.
+
+This project was made in collaboration with @sproggi and @menyanet73.
+My part of this project was to build scoring, reviews and comment sections.
+Also I made a huge effort in coordination between the developers, so we went through it smoothly.
 
 #### Stack: 
 Python 3, Django 2.2, DRF, PyJWT
@@ -9,7 +14,7 @@ Python 3, Django 2.2, DRF, PyJWT
 Clone a repository and go to command line:
 
 ```sh
-git clone https://github.com/menyanet73/api_yamdb.git
+git clone https://github.com/eraline/api_yamdb.git
 ```
 
 ```sh
